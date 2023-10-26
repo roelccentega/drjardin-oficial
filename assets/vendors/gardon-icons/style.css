@@ -1,0 +1,168 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoondda3.eot?upnsy0');
+  src:  url('fonts/icomoondda3.eot?upnsy0#iefix') format('embedded-opentype'),
+    url('fonts/icomoondda3.ttf?upnsy0') format('truetype'),
+    url('fonts/icomoondda3.woff?upnsy0') format('woff'),
+    url('fonts/icomoondda3.svg?upnsy0#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-rating:before {
+  content: "\e92d";
+}
+.icon-reliability:before {
+  content: "\e92e";
+}
+.icon-magnifying-glass:before {
+  content: "\e900";
+}
+.icon-shopping-cart:before {
+  content: "\e901";
+}
+.icon-right-arrow:before {
+  content: "\e902";
+}
+.icon-up-arrow:before {
+  content: "\e903";
+}
+.icon-down-arrow:before {
+  content: "\e904";
+}
+.icon-left-arrow:before {
+  content: "\e905";
+}
+.icon-house:before {
+  content: "\e906";
+}
+.icon-online-booking:before {
+  content: "\e907";
+}
+.icon-building:before {
+  content: "\e908";
+}
+.icon-gardener:before {
+  content: "\e909";
+}
+.icon-seeds:before {
+  content: "\e90a";
+}
+.icon-lawn-mower:before {
+  content: "\e90b";
+}
+.icon-gardener-1:before {
+  content: "\e90c";
+}
+.icon-farming-and-gardening:before {
+  content: "\e90d";
+}
+.icon-gardening:before {
+  content: "\e90e";
+}
+.icon-right-arrow-1:before {
+  content: "\e90f";
+}
+.icon-down-arrow-1:before {
+  content: "\e910";
+}
+.icon-up-arrow-1:before {
+  content: "\e911";
+}
+.icon-left-arrow-1:before {
+  content: "\e912";
+}
+.icon-growth:before {
+  content: "\e913";
+}
+.icon-park:before {
+  content: "\e914";
+}
+.icon-planting:before {
+  content: "\e915";
+}
+.icon-trophy:before {
+  content: "\e916";
+}
+.icon-rating-stars:before {
+  content: "\e917";
+}
+.icon-landscape:before {
+  content: "\e918";
+}
+.icon-farmer:before {
+  content: "\e919";
+}
+.icon-seeding:before {
+  content: "\e91a";
+}
+.icon-gardening-1:before {
+  content: "\e91b";
+}
+.icon-lawn-mower-1:before {
+  content: "\e91c";
+}
+.icon-garden:before {
+  content: "\e91d";
+}
+.icon-contract:before {
+  content: "\e91e";
+}
+.icon-reliability1:before {
+  content: "\e91f";
+}
+.icon-minus:before {
+  content: "\e920";
+}
+.icon-plus:before {
+  content: "\e921";
+}
+.icon-fountain:before {
+  content: "\e922";
+}
+.icon-communication:before {
+  content: "\e923";
+}
+.icon-land:before {
+  content: "\e924";
+}
+.icon-pdf-file:before {
+  content: "\e925";
+}
+.icon-gardening-2:before {
+  content: "\e926";
+}
+.icon-phone-call:before {
+  content: "\e927";
+}
+.icon-plus-1:before {
+  content: "\e928";
+}
+.icon-close:before {
+  content: "\e929";
+}
+.icon-address:before {
+  content: "\e92a";
+}
+.icon-company:before {
+  content: "\e92b";
+}
+.icon-email:before {
+  content: "\e92c";
+}

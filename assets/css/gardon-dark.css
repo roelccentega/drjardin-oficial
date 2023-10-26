@@ -1,0 +1,193 @@
+body,
+body.boxed-wrapper .page-wrapper,
+.main-menu__wrapper-inner {
+    background-color: #121f12;
+}
+
+.main-menu .main-menu__list>li>a,
+.stricky-header .main-menu__list>li>a,
+.section-title__tagline,
+.about-one__text-2,
+.about-one__points-2 li .text p,
+.feature-one__text,
+.testimonial-one__text-1,
+.testimonial-one__text-2,
+.testimonial-one__client-sub-title,
+.blog-one__meta li .text p,
+.blog-one__text,
+.blog-one__hover-text {
+    color: #778577;
+}
+
+.main-menu__search,
+.main-menu__cart,
+.section-title__title,
+.about-one__points-1 li .text p,
+.feature-one__title a,
+.testimonial-one__client-name,
+.blog-one__title a,
+.blog-one__hover-title a,
+.process-one__title {
+    color: var(--gardon-white);
+}
+
+.main-menu .main-menu__list>li.current>a,
+.main-menu .main-menu__list>li:hover>a,
+.stricky-header .main-menu__list>li.current>a,
+.stricky-header .main-menu__list>li:hover>a {
+    color: var(--gardon-white);
+    text-shadow: 0.05px 0 0 rgb(255 255 255 / 80%);
+}
+
+.main-menu__btn {
+    background-color: var(--gardon-black);
+    color: var(--gardon-white);
+}
+
+.main-menu__btn:hover {
+    color: var(--gardon-black);
+}
+
+.main-menu__btn:before {
+    background-color: var(--gardon-white);
+}
+
+.main-menu__search-cart-box:before {
+    background-color: #283c28;
+}
+
+.main-slider .owl-theme .owl-nav [class*=owl-] {
+    color: var(--gardon-white);
+    background-color: #121f12;
+}
+
+.about-one__img-two img {
+    border: 10px solid var(--gardon-black);
+}
+
+.about-one__btn:hover {
+    color: var(--gardon-black);
+}
+
+.about-one__btn:before {
+    background-color: var(--gardon-white);
+}
+
+.feature-one__single {
+    border: 1px solid var(--gardon-black);
+}
+
+.feature-one__single:hover {
+    border: 1px solid var(--gardon-black);
+    background-color: transparent;
+}
+
+.feature-one__shape-1 {
+    background-image: -moz-linear-gradient(0deg, rgba(18, 31, 18, 0) 0%, rgb(25, 41, 25) 100%);
+    background-image: -webkit-linear-gradient(0deg, rgba(18, 31, 18, 0) 0%, rgb(25, 41, 25) 100%);
+    background-image: -ms-linear-gradient(0deg, rgba(18, 31, 18, 0) 0%, rgb(25, 41, 25) 100%);
+}
+
+.process-one {
+    background-image: -moz-linear-gradient(90deg, rgb(18, 31, 18) 0%, rgb(23, 38, 23) 100%);
+    background-image: -webkit-linear-gradient(90deg, rgb(18, 31, 18) 0%, rgb(23, 38, 23) 100%);
+    background-image: -ms-linear-gradient(90deg, rgb(18, 31, 18) 0%, rgb(23, 38, 23) 100%);
+}
+
+.process-one__icon-box {
+    background-color: #152315;
+}
+
+.process-one__icon {
+    background-image: -moz-linear-gradient(90deg, rgb(18, 31, 18) 0%, rgba(23, 38, 23, 0) 100%);
+    background-image: -webkit-linear-gradient(90deg, rgb(18, 31, 18) 0%, rgba(23, 38, 23, 0) 100%);
+    background-image: -ms-linear-gradient(90deg, rgb(18, 31, 18) 0%, rgba(23, 38, 23, 0) 100%);
+}
+
+.process-one__icon span {
+    color: var(--gardon-base);
+}
+
+.process-one__count-box:before {
+    color: var(--gardon-black);
+    background-color: var(--gardon-white);
+}
+
+.process-one__count-box:after {
+    border-left: 25px solid var(--gardon-white);
+}
+
+.process-one__single:hover .process-one__count-box:before {
+    color: var(--gardon-white);
+}
+
+.testimonial-one__single-inner {
+    background-color: #162617;
+}
+
+.testimonial-one__carousel.owl-carousel .owl-dots .owl-dot {
+    background-color: #162617;
+}
+
+.testimonial-one__carousel.owl-carousel .owl-dot.active {
+    background-color: var(--gardon-base);
+}
+
+.contact-one {
+    background-color: #162617;
+}
+
+.contact-one__shape-4 {
+    opacity: 0.07;
+}
+
+.contact-one__img-2 {
+    border: 10px solid #121f12;
+}
+
+.brand-one__inner {
+    border-bottom: 2px dashed #283c28;
+}
+
+.blog-one__content,
+.blog-one__hover-content {
+    background-color: #162617;
+}
+
+.blog-one__title::after,
+.blog-one__hover-title::after {
+    border-bottom: 2px dashed rgba(213, 221, 207, .10);
+}
+
+.blog-one__hover-btn {
+    background-color: #0e180e;
+}
+
+.main-menu .mobile-nav__toggler:hover {
+    color: var(--gardon-white);
+}
+
+.contact-one__form-input-box input[type="text"] {
+    background-color: #121f12;
+    color: #778577;
+}
+
+.contact-one__form-input-box .bootstrap-select>.dropdown-toggle {
+    background-color: #121f12 !important;
+    color: #778577 !important;
+}
+
+.contact-one__form-input-box .bootstrap-select>.dropdown-toggle:before {
+    color: #778577;
+}
+
+.contact-one__form-btn:hover {
+    color: var(--gardon-black);
+}
+
+.contact-one__form-btn:before {
+    background-color: var(--gardon-white);
+}
+
+
+/*  */
